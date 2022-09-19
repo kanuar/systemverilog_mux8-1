@@ -1,3 +1,5 @@
+// module file for an 8:1 mux 
+
 module mux81(input logic [3:0]d[7:0],
 			 input logic [2:0]s,
 			 output logic [3:0]y);
